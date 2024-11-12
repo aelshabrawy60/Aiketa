@@ -1,0 +1,9 @@
+.wraper{
+    height: 99vh;
+}
+
+@media (max-width: 770px) {
+    .wraper{
+        height: auto;
+    }
+}

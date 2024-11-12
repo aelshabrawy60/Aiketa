@@ -1,0 +1,18 @@
+.question-container{
+    width: 100%;
+    background-color: #1F1F1F;
+    border-radius: 10px;
+}
+.question__answer-container textarea{
+    width: 100%;
+    background: none;
+    border: none;
+    color: white;
+}
+.question__header{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.146);
+    color: rgba(255, 255, 255, 0.683);
+    font-size: 14pxs;
+}

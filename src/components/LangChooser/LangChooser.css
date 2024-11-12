@@ -1,0 +1,24 @@
+.flag-icon{
+    width: 20px;
+}
+.lang-btn{
+    background-color: #1F1F1F;
+    padding: 5px 16px;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+}
+.dropdown-menu{
+    background-color: #1F1F1F;
+    color: white;
+}
+.dropdown-item{
+    color: white;
+}
+.dropdown-item:hover{
+    background-color: black;
+    color: white;
+}

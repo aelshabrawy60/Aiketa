@@ -1,0 +1,17 @@
+.search-box-container input{
+    background-color: #2A2A2A;
+    border: none;
+    padding: 10px 50px;
+    border-radius: 8px;
+}
+
+.search-box-container{
+    position: relative;
+}
+.search__icon{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 15px;
+    font-size: 22px;
+}

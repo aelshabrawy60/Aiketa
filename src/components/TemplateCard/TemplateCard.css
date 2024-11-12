@@ -1,0 +1,23 @@
+.template-card-container{
+    background-color: #1F1F1F;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.template__description{
+    color: #C9C9C9;
+}
+.template__icon-container{
+    min-width: 81px;
+    height: 74px;
+    border-radius: 10px;
+    background-color: #512323;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.template__name{
+    font-size: 20px;
+}

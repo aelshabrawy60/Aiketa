@@ -1,0 +1,25 @@
+body{
+    color: white;
+    background-color: #100F0F;
+    font-family: "Poppins", serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+textarea:focus-within{
+    outline: none;
+}
+input{
+    color: white;
+}
+input:focus-within{
+    outline: none;
+}
+
+.gradient-text{
+    background: linear-gradient(90deg, #ffffff, #9f9f9f);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

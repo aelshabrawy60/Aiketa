@@ -1,0 +1,7 @@
+.templates-container{
+    overflow-y: scroll;
+    height: 75%;
+}
+.templates-container::-webkit-scrollbar{
+    display: none;
+}

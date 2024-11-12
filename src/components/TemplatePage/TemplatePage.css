@@ -1,0 +1,12 @@
+.create_btn{
+    border-radius: 8px;
+    background-color: #303030;
+    border: none;
+    color: white;
+}
+
+.template-page__header{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.148);
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.712);
+}
