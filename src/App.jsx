@@ -4,8 +4,6 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import './App.css'
 import generateResponse from './generateResponse'
 import TextViewer from './components/TextViewer/TextViewer'
-import QuestionsCard from './components/QuestionsCard/QuestionsCard'
-import Templates from './components/Templates/Templates'
 import Home from './components/Home/home'
 import TemplatePage from './components/TemplatePage/TemplatePage';
 
