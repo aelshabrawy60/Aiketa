@@ -1,6 +1,6 @@
-# Aiekta - AI Content Creator Website
+# Aiketa - AI Content Creator Website
 
-Aiekta is an AI-powered content creator website built with React. By utilizing the Gemeni API, Aiekta generates high-quality, unique, and engaging content tailored to the user's needs. This project aims to simplify the content creation process for various users, including bloggers, marketers, and businesses looking to produce relevant and engaging written content effortlessly.
+Aiketa is an AI-powered content creator website built with React. By utilizing the Gemeni API, Aiekta generates high-quality, unique, and engaging content tailored to the user's needs. This project aims to simplify the content creation process for various users, including bloggers, marketers, and businesses looking to produce relevant and engaging written content effortlessly.
 
 ![Screenshot 2024-11-12 212156](https://github.com/user-attachments/assets/4382aa93-f1d5-4daa-a9c0-b72431cde574)
 
