@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import './App.css'
 import generateResponse from './generateResponse'
 import TextViewer from './components/TextViewer/TextViewer'
-import Home from './components/Home/home'
+import Home from './components/Home/Home'
 import TemplatePage from './components/TemplatePage/TemplatePage';
 
 
